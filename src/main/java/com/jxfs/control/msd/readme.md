@@ -1,0 +1,1 @@
+Magnetic Stripe & Chip Card Device Class Interface
